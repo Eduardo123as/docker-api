@@ -93,23 +93,6 @@ El `Dockerfile` utiliza:
 - El servidor escucha en todas las interfaces de red (0.0.0.0)
 - Accesible a través del puerto 5000
 
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Por favor:
-1. Haz un fork del repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
-
-## 📧 Contacto
-
-Para preguntas o soporte, abre un issue en GitHub.
-
 ---
 
 **Hecho con ❤️ por Eduardo123as**
